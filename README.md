@@ -12,9 +12,9 @@
 # II. BUILD WITH: 
 ##  Softwares you need to install to use and edit system:
 ### Visual Studio 2017
-### Download link: https://visualstudio.microsoft.com/downloads/
+ Download link: https://visualstudio.microsoft.com/downloads/
 ### SQL Server - Manage database.
-### Download link: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+ Download link: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 
 # III. AUTHORS:
 ## - Phan Van Tien - 16521234.
