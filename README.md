@@ -11,8 +11,8 @@
 
 # II. BUILD WITH: 
 ##  Softwares you need to install to use and edit system:
-### Sublime Text 2 - Web design and combine SQL.
-### Download link: https://www.sublimetext.com/2
+### Visual Studio 2017
+### Download link: https://visualstudio.microsoft.com/downloads/
 ### SQL Server - Manage database.
 ### Download link: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 
