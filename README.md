@@ -17,6 +17,6 @@
  Download link: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 
 # III. AUTHORS:
-## - Phan Van Tien - 16521234.
-## - Hoang Anh Minh - 16521558.
-## - Huynh Trung Tan - 16521073.
+ - Phan Van Tien - 16521234.
+ - Hoang Anh Minh - 16521558.
+ - Huynh Trung Tan - 16521073.
